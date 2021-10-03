@@ -7,6 +7,12 @@ public class First {
 		System.out.println("UC1");
 		
 
+
+		System.out.println("UC2");
+		
+		
+
+
 	}
 
 }
